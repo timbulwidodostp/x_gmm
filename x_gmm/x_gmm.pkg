@@ -1,5 +1,4 @@
-d 'DEA': Data envelopment analysis
-d
-f dea.ado
-f dea.sthlp
-f coelli_table6.4.dta
+D 'x_gmm': Two-Step Spatial GMM Estimation with a Linear Model Use x_gmm With STATA 18
+D
+F x_gmm.ado
+F x_gmm.sthlp
