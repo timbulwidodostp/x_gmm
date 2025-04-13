@@ -1,5 +1,7 @@
 # x_gmm
-Two-Step Spatial GMM Estimation with a Linear Model Use x_gmm With STATA 18
+Two-Step Spatial GMM Estimation with a Linear Model Use x_gmm With STATA 19
+
+https://www.youtube.com/watch?v=oG3cK-zSO4E
 
 Olah Data Semarang
 
